@@ -1,5 +1,5 @@
 {
-  "name": "Haruka",
+  "name": "Wanz-Bot",
   "version": "4.0.0",
   "description": "By Zeeone Ofc",
   "main": "haruka.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node haruka.js"
   },
-  "author": "ZEEONE",
+  "author": "WANZ",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3", 
     "awesome-phonenumber": "^2.64.0",
