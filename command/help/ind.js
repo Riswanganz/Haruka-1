@@ -205,7 +205,7 @@ exports.menu = (prefix, salam, pushname) =>{
 *Deskripsi*
 Hallo, saya Bot Wanz saya bisa beberapa hal, tapi ada beberapa fitur saya yang error jadi maafkan saya jika saya tidak respon ketika anda menyuruh saya beberapa hal, dan sebarkan saya ke grupmu agar lebih menarik.
 
-Nomer Saya : wa.me/6283804343232
+Nomer Saya : wa.me/6283830086398
 Nomer Owner Saya : wa.me/6283804343232
 tidak sopan, blokir langsung
 `
