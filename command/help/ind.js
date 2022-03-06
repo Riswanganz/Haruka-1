@@ -201,12 +201,12 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}kick @tag
 │ • ${prefix}setdesc [text] 
 │ • ${prefix}setname [text] 
-│
-├ *Deskripsi*
-│ • Hallo, saya bot Wanz.
-│ • Masukan saya ke grupmu agar lebih menarik.
-│ • Maaf ada beberapa CMD yang error.
-│ • Thanks you 😘
 ╰─⬣
+*Deskripsi*
+Hallo, saya Bot Wanz saya bisa beberapa hal, tapi ada beberapa fitur saya yang error jadi maafkan saya jika saya tidak respon ketika anda menyuruh saya beberapa hal, dan sebarkan saya ke grupmu agar lebih menarik.
+
+Nomer Saya : wa.me/6283804343232
+Nomer Owner Saya : wa.me/6283804343232
+tidak sopan, blokir langsung
 `
 	}
