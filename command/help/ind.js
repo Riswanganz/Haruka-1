@@ -82,10 +82,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}telesticker [url]
 │ • ${prefix}spotify [url]
 │ • ${prefix}spotifysearch [query]
-│ • ${prefix}nhentai [code]
-│ • ${prefix}nhentaipdf [code]
-│ • ${prefix}nhentaisearch [query]
-│
 ├ *Convert*
 │ • ${prefix}stiker [video/image]
 │ • ${prefix}semoji 😎
@@ -202,11 +198,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}setdesc [text] 
 │ • ${prefix}setname [text] 
 ╰─⬣
-*Deskripsi*
-Hallo, saya Bot Wanz saya bisa beberapa hal, tapi ada beberapa fitur saya yang error jadi maafkan saya jika saya tidak respon ketika anda menyuruh saya beberapa hal, dan sebarkan saya ke grupmu agar lebih menarik.
-
-Nomer Saya : wa.me/6283830086398
-Nomer Owner Saya : wa.me/6283804343232
-tidak sopan, blokir langsung
+Kalau ada beberapa fitur yang error mohon maaf saya cuma manusia yang tidak luput dari kesalahan😁
 `
 	}
