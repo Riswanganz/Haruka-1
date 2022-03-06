@@ -904,8 +904,8 @@ case 'linkgrup':case 'linkgroup': case 'linkgc':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
 			if (!isGroup) return reply(lang.group())
 			linkgc = await haruka.groupInviteCode(from)
-			yeh = `https://chat.whatsapp.com/${linkgc}\n\nlink Group *${groupName}*`
-			haruka.sendMessage(from, yeh, text, { quoted: mek })
+			text = `https://chat.whatsapp.com/${linkgc}\n\nlink Group *${groupName}*`
+			haruka.sendMessage(from, text, text, { quoted: mek })
 			break  
 case 'tagall':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
