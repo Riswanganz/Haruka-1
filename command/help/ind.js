@@ -11,7 +11,7 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Lu udah daftar banh`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -105,7 +105,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}foliokiri [text]
 │ • ${prefix}foliokanan [text]
 │
-├ *Islamic*
+├ *Islami*
 │ • ${prefix}listsurah
 │ • ${prefix}alquran
 │ • ${prefix}asmaulhusna
@@ -201,6 +201,12 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}kick @tag
 │ • ${prefix}setdesc [text] 
 │ • ${prefix}setname [text] 
+│
+├ *Deskripsi*
+│ • Hallo, saya bot Wanz.
+│ • Masukan saya ke grupmu agar lebih menarik.
+│ • Maaf ada beberapa CMD yang error.
+│ • Thanks you 😘
 ╰─⬣
 `
 	}
