@@ -7,5 +7,4 @@
 ├ 60 Hari / Rp 15,000
 ├ 90 Hari / Rp 25,000
 ├ 100 Hari / Rp 30,000
-├ izin sama owner = permanen
 └────
